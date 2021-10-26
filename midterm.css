@@ -1,0 +1,28 @@
+/*this is an id selector*/
+    #camera {position:relative;
+    background-color:rgb(175, 165, 155);
+    height:auto;
+    margin: 2 auto;
+    width: 810px;
+    word-wrap: break-word;
+    white-space:pre-wrap;}
+   
+    /*these are element selectors*/
+    body{background-color: rgb(52, 61, 82);}
+    h1{color:rgb(5, 3, 3);
+    text-align:left;}
+    p{font-family: 'Comic Sans MS';}
+
+
+    img{float:none;}
+    
+    #list {text-align: center;}
+    
+    li{display: inline;
+        font-size: larger;}
+
+    a{color:rgb(16, 219, 33);}
+    a:visited {color: aliceblue;}
+    a:hover {color: rgb(175, 165, 155);}
+    a:active {color: black;
+          background-color:rgb(175, 165, 155);}
